@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HalfBlog",
+    "description": "",
+    "home_page_url": "https://mrhalflife280.github.io/HalfBlog",
+    "feed_url": "https://mrhalflife280.github.io/HalfBlog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MrHalfLife"
+    },
+    "items": [
+        {
+            "id": "https://mrhalflife280.github.io/HalfBlog/welcome-to-halfblog.html",
+            "url": "https://mrhalflife280.github.io/HalfBlog/welcome-to-halfblog.html",
+            "title": "Welcome to HalfBlog",
+            "summary": "Hello, this is my new blog, for real this time, I won’t be using ATSPACE with WordPress since it needs SSL, which you have to&hellip;",
+            "content_html": "<p>Hello, this is my new blog, for real this time, I won’t be using ATSPACE with WordPress since it needs SSL, which you have to pay for :(</p><p>So I decided to post the blog posts here, hosted under GitHub Pages!</p><p>End.</p>",
+            "author": {
+                "name": "MrHalfLife"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-23T16:01:50+01:00",
+            "date_modified": "2025-03-23T16:01:50+01:00"
+        }
+    ]
+}

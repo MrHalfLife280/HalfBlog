@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>HalfBlog</title>
+    <link href="https://mrhalflife280.github.io/HalfBlog/feed.xml" rel="self" />
+    <link href="https://mrhalflife280.github.io/HalfBlog" />
+    <updated>2025-03-23T16:01:50+01:00</updated>
+    <author>
+        <name>MrHalfLife</name>
+    </author>
+    <id>https://mrhalflife280.github.io/HalfBlog</id>
+
+    <entry>
+        <title>Welcome to HalfBlog</title>
+        <author>
+            <name>MrHalfLife</name>
+        </author>
+        <link href="https://mrhalflife280.github.io/HalfBlog/welcome-to-halfblog.html"/>
+        <id>https://mrhalflife280.github.io/HalfBlog/welcome-to-halfblog.html</id>
+
+        <updated>2025-03-23T16:01:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, this is my new blog, for real this time, I won’t be using ATSPACE with WordPress since it needs SSL, which you have to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, this is my new blog, for real this time, I won’t be using ATSPACE with WordPress since it needs SSL, which you have to pay for :(</p><p>So I decided to post the blog posts here, hosted under GitHub Pages!</p><p>End.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
