@@ -3,12 +3,127 @@
     <title>HalfBlog</title>
     <link href="https://mrhalflife280.github.io/HalfBlog/feed.xml" rel="self" />
     <link href="https://mrhalflife280.github.io/HalfBlog" />
-    <updated>2025-03-30T12:00:26+02:00</updated>
+    <updated>2025-05-01T12:26:15+02:00</updated>
     <author>
         <name>MrHalfLife</name>
     </author>
     <id>https://mrhalflife280.github.io/HalfBlog</id>
 
+    <entry>
+        <title>What were the &quot;Halloween Documents&quot;</title>
+        <author>
+            <name>MrHalfLife</name>
+        </author>
+        <link href="https://mrhalflife280.github.io/HalfBlog/what-were-the-halloween-documents.html"/>
+        <id>https://mrhalflife280.github.io/HalfBlog/what-were-the-halloween-documents.html</id>
+
+        <updated>2025-05-01T12:26:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    The Halloween documents are a series of secret Microsoft memos from the late 1990s. They came to light because they were leaked by a Microsoft&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Halloween documents are a series of secret Microsoft memos from the late 1990s. They came to light because they were leaked by a Microsoft employee and published by open source advocate Eric S. Raymond - many of them around October 31, hence the name.<br><br>The documents show: Microsoft saw Linux and open source software as a serious threat and developed strategies to slow their success - despite public statements to the contrary.</p>
+<table class="wikitable sortable jquery-tablesorter">
+<thead>
+<tr>
+<th class="headerSort" tabindex="0" title="Sort ascending" role="columnheader button">No.</th>
+<th class="headerSort" tabindex="0" title="Sort ascending" role="columnheader button">Name</th>
+<th class="headerSort" tabindex="0" title="Sort ascending" role="columnheader button">Author</th>
+<th class="headerSort" tabindex="0" title="Sort ascending" role="columnheader button">Date</th>
+<th class="headerSort" tabindex="0" title="Sort ascending" role="columnheader button">Brief description</th>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td>I</td>
+<td>"Open Source Software: A (New?) Development Methodology"</td>
+<td>Microsoft / Vinod Valloppillil</td>
+<td><span data-sort-value="000000001998-08-01-0000">August 1998</span></td>
+<td>A leaked internal report <sup id="cite_ref-document1_1-3" class="reference"></sup></td>
+</tr>
+<tr valign="top">
+<td>II</td>
+<td>"Linux OS Competitive Analysis: The Next Java VM?"</td>
+<td>Microsoft / Vinod Valloppillil</td>
+<td><span data-sort-value="000000001998-08-01-0000">August 1998</span></td>
+<td>A leaked internal report <sup id="cite_ref-document2_4-0" class="reference"></sup></td>
+</tr>
+<tr valign="top">
+<td>III</td>
+<td>Untitled statement</td>
+<td>Microsoft / Aurelia van den Berg</td>
+<td><span data-sort-value="000000001998-11-01-0000">November 1998</span></td>
+<td>Press statement from Microsoft Netherlands <sup id="cite_ref-document3_5-0" class="reference"></sup></td>
+</tr>
+<tr valign="top">
+<td>IV</td>
+<td>"When Software Things Were Rotten"</td>
+<td>Eric S. Raymond</td>
+<td><span data-sort-value="000000001998-12-01-0000">December 1998</span></td>
+<td>A satire piece based on Microsoft's <a href="https://en.wikipedia.org/w/index.php?title=Ed_Muth&amp;action=edit&amp;redlink=1" class="new" title="Ed Muth (page does not exist)">Ed Muth</a> comparing open source developers to <a href="https://en.wikipedia.org/wiki/Robin_Hood" title="Robin Hood">Robin Hood</a>.</td>
+</tr>
+<tr valign="top">
+<td>V</td>
+<td>"The FUD Begins"</td>
+<td>Eric S. Raymond</td>
+<td><span data-sort-value="000000001999-03-01-0000">March 1999</span></td>
+<td>A response by Raymond to Ed Muth's allegations that Linux has a "weak <a href="https://en.wikipedia.org/wiki/Value_proposition" title="Value proposition">value proposition</a>".</td>
+</tr>
+<tr valign="top">
+<td>VI</td>
+<td>"The Fatal Anniversary"</td>
+<td>Eric S. Raymond</td>
+<td><span data-sort-value="000000001999-10-01-0000">October 1999</span></td>
+<td>A response by Raymond to studies authored by the <a href="https://en.wikipedia.org/wiki/Gartner" title="Gartner">Gartner</a> group for Microsoft.</td>
+</tr>
+<tr valign="top">
+<td>VII</td>
+<td>"Research E-Bulletin: Attitudes Towards Shared Source and Open Source Research Study"</td>
+<td>Microsoft</td>
+<td><span data-sort-value="000000002002-09-01-0000">September 2002</span></td>
+<td>A summary of the results of a Microsoft survey describing reactions to Microsoft's <a href="https://en.wikipedia.org/wiki/Shared_Source_Initiative" title="Shared Source Initiative">Shared Source Initiative</a>.</td>
+</tr>
+<tr valign="top">
+<td>VIII</td>
+<td>"OSS and Government"</td>
+<td>Microsoft / Orlando Ayala</td>
+<td><span data-sort-value="000000002002-11-01-0000">November 2002</span></td>
+<td>Describes Microsoft's procedures for responding to notable conversions away from Microsoft software </td>
+</tr>
+<tr valign="top">
+<td>IX</td>
+<td>"It Ain't Necessarily SCO"</td>
+<td>Eric S. Raymond and Rob Landley</td>
+<td><span data-sort-value="000000002003-08-01-0000">August 2003</span></td>
+<td>A response to the allegations made by the <a href="https://en.wikipedia.org/wiki/SCO_Group" title="SCO Group">SCO Group</a> in its initial filings in <i><a href="https://en.wikipedia.org/wiki/SCO_v._IBM" class="mw-redirect" title="SCO v. IBM">SCO v. IBM</a></i>.<sup id="cite_ref-document9_11-0" class="reference"></sup></td>
+</tr>
+<tr valign="top">
+<td>X</td>
+<td>"Follow The Money"</td>
+<td>Mike Anderer</td>
+<td><span data-sort-value="000000002004-03-01-0000">March 2004</span></td>
+<td>An e-mail from consultant Mike Anderer to SCO's Chris Sontag revealing Microsoft's channeling of $86<span class="nowrap"> </span>million (equivalent to $140<span class="nowrap"> </span>million in 2024) to SCO.<sup id="cite_ref-document10_12-0" class="reference"></sup></td>
+</tr>
+<tr valign="top">
+<td>XI</td>
+<td>"Get The FUD"</td>
+<td>Eric S. Raymond</td>
+<td><span data-sort-value="000000002004-06-01-0000">June 2004</span></td>
+<td>A response to Microsoft's "<a href="https://en.wikipedia.org/wiki/Get_the_Facts" class="mw-redirect" title="Get the Facts">Get the Facts</a>" campaign <sup id="cite_ref-document11_13-0" class="reference"></sup></td>
+</tr>
+</tbody>
+</table>
+<p class="" data-start="94" data-end="236"><strong data-start="94" data-end="116">Documents I and II</strong><br data-start="116" data-end="119">These are leaked reports for Microsoft's own use, both written by Vinod Valloppillil, a program manager at Microsoft.</p>
+<p class="" data-start="238" data-end="558">Document I provides a detailed introduction to the concepts behind open source software and its possible impact on Microsoft products and services. It outlines the strengths and weaknesses of open source software. Document II describes the basic architecture of the Linux system, and its relation to Unix and Windows NT.</p>
+<p class="" data-start="560" data-end="1025">Document I revealed that "FUD" (spreading fear, uncertainty, and doubt) was a traditional Microsoft marketing strategy, acknowledged and understood internally. Examples of Microsoft's FUD tactics are announcing nonexistent products or spreading rumors that competing products will crash Windows. Raymond suggests that the documents show that while Microsoft may have been dismissive of open source software in public, it privately considers it a serious competitor.</p>
+<p class="" data-start="1027" data-end="1727">In discussing ways of competing with open source, Document I suggests that one reason that open source projects had been able to enter the server market is the market's use of standardized protocols. The document then suggests that this can be stopped by "extending these protocols and developing new protocols" and "de-commoditiz[ing] protocols &amp; applications". This policy has been internally nicknamed "embrace, extend, extinguish". Document I also suggests that open source software "is long-term credible ... FUD tactics can not be used to combat it", and "Recent case studies (the Internet) provide very dramatic evidence ... that commercial quality can be achieved / exceeded by OSS projects."</p>
+<p class="" data-start="1729" data-end="1826">Documents I and II were filed as evidence on January 16, 2007, in the case of Comes v. Microsoft.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The main problems with YouTube Revivals</title>
         <author>
